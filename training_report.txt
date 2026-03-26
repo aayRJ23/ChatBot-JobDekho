@@ -1,42 +1,64 @@
 ============================================================
   Job Dekho Chatbot — Training Report
-  Generated : 2026-03-26 18:51:34
+  Generated : 2026-03-27 01:29:43
 ============================================================
 
-Dataset        : /home/claude/fresh-delivery/ChatBot-JobDekho/JobPortalDataset.csv
-Total rows     : 90
-Unique classes : 75
-Train samples  : 81
-Test samples   : 9
+Dataset        : D:\Job-Dekho-Edit\ChatBot-JobDekho\JobPortalDataset.csv
+Total rows     : 213
+Unique classes : 184
+Train samples  : 191
+Test samples   : 22
 
 ------------------------------------------------------------
-  Accuracy : 22.22%
+  Accuracy : 4.55%
 ------------------------------------------------------------
 
 Classification Report:
 
-                                                                                                                                                                                           precision    recall  f1-score   support
+                                                                                                                                                                                                                  precision    recall  f1-score   support
 
-                                                              Click the Reject Application button on the applicant card in My Applications. The applicant will be notified automatically.       0.00      0.00      0.00         1
-                                                                            Click the green checkmark on any notification card or click Mark All as Read at the top to clear all at once.       0.00      0.00      0.00         1
-                                     Go to the Register page and fill in your name email phone number password and select your role as either Job Seeker or Employer then click Register.       1.00      1.00      1.00         1
-                                                                                                            Go to your profile page and click on Edit Profile to update your information.       1.00      1.00      1.00         1
-                                                                                Go to your profile settings click on Change Password and follow the instructions to update your password.       0.00      0.00      0.00         0
-                                    On the My Applications page click Accept and Schedule Interview on the applicant card. Fill in the interview date time and meeting link then confirm.       0.00      0.00      0.00         0
-                          On the My Applications page each application shows a status timeline with stages Applied Under Review Awaiting Decision Interview Scheduled and Final Decision.       0.00      0.00      0.00         0
-                        The application goes through these stages: Applied then Under Review then Awaiting Decision. If accepted it moves to Interview Scheduled and then Final Decision.       0.00      0.00      0.00         0
-                                                                                                          To delete your account please contact our support team at support@jobdekho.com.       0.00      0.00      0.00         0
-                                                                        Yes when editing a job in VIEW YOUR JOBS you can change the Expired field to TRUE to mark it as no longer active.       0.00      0.00      0.00         0
-                                                                           You can delete your own pending application from the My Applications page. Once reviewed you cannot delete it.       0.00      0.00      0.00         1
-                                                                You can delete your pending application from the My Applications page. If already reviewed contact the employer directly.       0.00      0.00      0.00         1
-                                             You can register as either a Job Seeker who can search and apply for jobs or as an Employer who can post job listings and review applicants.       0.00      0.00      0.00         1
-                                         You cannot directly switch between Job Seeker and Employer. Please contact our support team at support@jobdekho.com to change your account type.       0.00      0.00      0.00         1
-You must be logged in as an Employer. Click POST NEW JOB in the sidebar fill in the title category country city location salary type salary amount and description then click Create Job.       0.00      0.00      0.00         0
-                                            You need to provide the job title category country city location salary type either fixed or ranged salary amount and a full job description.       0.00      0.00      0.00         1
+                                                                          After your interview the employer will update the final verdict. If selected you will see a Selected badge and receive a notification.       0.00      0.00      0.00         1
+                                                                                An Employer can post job listings manage applications schedule interviews and make final hiring decisions from within Job Dekho.       0.00      0.00      0.00         0
+                                                                                         Applications cannot be edited after submission. You may delete a pending application and reapply if changes are needed.       0.00      0.00      0.00         0
+                                         Check your internet connection and make sure all fields are filled and the resume file is in PDF JPG or PNG format. If the issue persists contact support@jobdekho.com.       0.00      0.00      0.00         1
+                                                                                         Click NOTIFICATIONS in the sidebar. You will see all your notifications with a summary of total unread and read counts.       0.00      0.00      0.00         1
+                                                                                     Click the Reject Application button on the applicant card in My Applications. The applicant will be notified automatically.       0.00      0.00      0.00         0
+                                                                                          Click the Report button on the suspicious job listing or contact our support team immediately at support@jobdekho.com.       0.00      0.00      0.00         1
+                                                                                  Currently Job Dekho is a web application that works in mobile browsers. A dedicated mobile app may be available in the future.       0.00      0.00      0.00         1
+                                                                           Fixed Salary means you set one specific pay amount. Ranged Salary means you set a minimum and maximum so candidates see the pay band.       0.00      0.00      0.00         1
+                                                                                                                                        Glad I could help! Reach out anytime you need assistance with Job Dekho.       0.00      0.00      0.00         1
+                       Go to All Jobs and use the search bar to filter by keywords like Developer Engineer or specific technologies. You can also browse categories like Frontend Web Development or MERN Stack.       0.00      0.00      0.00         0
+                                                                                  Go to MY APPLICATIONS and click Reject Application on the candidate card. They will be notified of the decision automatically.       0.00      0.00      0.00         1
+                                                                                                   Go to MY APPLICATIONS in the sidebar. You will see all your submitted applications with their current status.       0.00      0.00      0.00         0
+                                                                 Go to My Applications page and click Delete on the pending application you want to cancel. Applications already under review cannot be deleted.       0.00      0.00      0.00         0
+                                                            Go to the Register page and fill in your name email phone number password and select your role as either Job Seeker or Employer then click Register.       0.00      0.00      0.00         0
+                                                                                                                                                     Happy to help! Let me know if you have any other questions.       0.00      0.00      0.00         0
+                                                                                                                          Hello! Great to have you here. I am the Job Dekho assistant. How can I help you today?       0.00      0.00      0.00         1
+                                                                                      I am sorry to hear that. Please describe what is not working and I will help you fix it or direct you to our support team.       0.00      0.00      0.00         1
+                                          I can answer questions about registration login job search applying for jobs interview scheduling notifications and all other features of Job Dekho. Go ahead and ask!       0.00      0.00      0.00         1
+I can help you with everything on Job Dekho including registering finding and applying for jobs posting job listings tracking applications scheduling interviews understanding notifications and more. Just ask!       0.00      0.00      0.00         1
+             Job Dekho connects job seekers with employers. Seekers search and apply. Employers post jobs review applications accept or reject candidates schedule interviews and record final hiring decisions.       0.00      0.00      0.00         0
+                                                                                                              Look for Remote or Work From Home in the job title or description when browsing the All Jobs page.       0.00      0.00      0.00         1
+                                        MERN stands for MongoDB Express React and Node.js. It is a popular full-stack JavaScript technology combination. Job Dekho has a dedicated category for MERN Stack jobs.       0.00      0.00      0.00         0
+                                                                         MEVN stands for MongoDB Express Vue and Node.js. It is a full-stack JavaScript framework. Job Dekho includes a MEVN Stack job category.       0.00      0.00      0.00         1
+                           Make sure you are selecting the correct role that matches your account type then enter the correct email and password. If the issue persists contact support at support@jobdekho.com.       0.50      1.00      0.67         1
+                                               The application goes through these stages: Applied then Under Review then Awaiting Decision. If accepted it moves to Interview Scheduled and then Final Decision.       0.00      0.00      0.00         0
+                                 The employer has accepted your application and scheduled an interview. You will receive a notification and can see the interview date time and meeting link in My Applications.       0.00      0.00      0.00         1
+                                                                            The employer has reviewed your application and decided not to move forward. You will see a Rejected status on your application card.       0.00      0.00      0.00         0
+ There are five stages: Applied means submitted. Under Review means the employer is looking. Awaiting Decision means nearing a verdict. Interview Scheduled means accepted. Final Decision is the hiring result.       0.00      0.00      0.00         1
+                                                                                             To post a job you need a title category country city location salary type and description. All fields are required.       0.00      0.00      0.00         0
+                                                                         You can choose between a Fixed Salary where you enter one amount or a Ranged Salary where you enter a minimum and maximum salary value.       0.00      0.00      0.00         0
+                                                                                       You can delete your pending application from the My Applications page. If already reviewed contact the employer directly.       0.00      0.00      0.00         1
+                                                                    You can register as either a Job Seeker who can search and apply for jobs or as an Employer who can post job listings and review applicants.       0.00      0.00      0.00         1
+                                                               You cannot directly switch roles. Please contact our support team at support@jobdekho.com and they will assist you in changing your account type.       0.00      0.00      0.00         1
+                       You must be logged in as an Employer. Click POST NEW JOB in the sidebar fill in the title category country city location salary type salary amount and description then click Create Job.       0.00      0.00      0.00         0
+                                                                                 You need to provide your full name email address phone number a password and select your role as either Employer or Job Seeker.       0.00      0.00      0.00         1
+                                                                             You will receive a real time notification and your application status will update to show the interview date time and meeting link.       0.00      0.00      0.00         0
+                                                                                Your data is used solely for the purpose of job matching and communication within the platform. We do not sell your information.       0.00      0.00      0.00         1
 
-                                                                                                                                                                                 accuracy                           0.22         9
-                                                                                                                                                                                macro avg       0.12      0.12      0.12         9
-                                                                                                                                                                             weighted avg       0.22      0.22      0.22         9
+                                                                                                                                                                                                        accuracy                           0.05        22
+                                                                                                                                                                                                       macro avg       0.01      0.03      0.02        22
+                                                                                                                                                                                                    weighted avg       0.02      0.05      0.03        22
 
 ============================================================
   Quick Smoke Test

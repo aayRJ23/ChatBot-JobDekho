@@ -1,35 +1,91 @@
 User Input,Response
-How do I create an account?,"To create an account, click on the 'Sign Up' button and fill in the required details."
-How do I log in?,Click on the 'Login' button and enter your email and password.
-I forgot my password.,Click on the 'Forgot Password' link and follow the instructions to reset your password.
-How can I search for jobs?,"You can search for jobs by entering keywords in the search bar and applying filters for location, job type, and more."
-How do I apply for a job?,"To apply for a job, click on the job listing and then click on the 'Apply' button. Follow the instructions to submit your application."
-Can I upload my resume?,"Yes, you can upload your resume by going to your profile and clicking on the 'Upload Resume' button."
-How do I post a job?,"To post a job, log in to your employer account and click on the 'Post a Job' button. Fill in the job details and submit."
-What details are required to post a job?,"You will need to provide the job title, description, requirements, location, and salary range."
-How can I track my application status?,You can track your application status by going to the 'Applications' section in your profile.
-What is the application process?,"The application process involves searching for jobs, clicking on a job listing, and then applying by following the instructions."
-Can I edit my job posting?,"Yes, you can edit your job posting by going to your employer dashboard and selecting the job you want to edit."
-How do I delete my account?,"To delete your account, please contact our support team at support@jobdekho.com."
-Is there a fee to post a job?,"Posting jobs is free for basic listings. For premium features, please check our pricing page."
-How do I contact support?,You can contact our support team by emailing support@jobdekho.com or calling our helpline at 123-456-7890.
-What is the response time for support?,Our support team typically responds within 24 hours.
-How do I update my profile information?,"To update your profile information, go to your profile page and click on 'Edit Profile'."
-Can I save job searches?,"Yes, you can save job searches by clicking on the 'Save Search' button after performing a job search."
-How do I view my saved jobs?,You can view your saved jobs by going to the 'Saved Jobs' section in your profile.
-What is the difference between a job seeker and an employer account?,"A job seeker account allows you to search and apply for jobs, while an employer account allows you to post job listings and search for candidates."
-How do I change my account type?,"To change your account type, please contact our support team at support@jobdekho.com."
-Can I receive job alerts?,"Yes, you can set up job alerts by going to your profile and configuring your job alert preferences."
-How do I apply for multiple jobs?,You can apply for multiple jobs by visiting each job listing and submitting an application for each one.
-Can I delete a job application?,"No, once an application is submitted, it cannot be deleted. However, you can withdraw your application by contacting the employer directly."
-How do I edit my resume?,"To edit your resume, go to your profile, click on 'Edit Resume', make the necessary changes, and save."
-What if I encounter an error while applying for a job?,"If you encounter an error, please contact our support team at support@jobdekho.com with the details of the issue."
-How can I find remote jobs?,You can find remote jobs by selecting the 'Remote' filter in the job search options.
-Can I view the jobs I've applied for?,"Yes, you can view the jobs you've applied for by going to the 'Applications' section in your profile."
-How do I change my password?,"To change your password, go to your profile settings, click on 'Change Password', and follow the instructions."
-Are there any tips for creating a strong resume?,"Yes, our blog provides tips on creating a strong resume. Visit our blog section for more information."
-How do I deactivate my account temporarily?,"To deactivate your account temporarily, please contact our support team at support@jobdekho.com."
-What should I do if I find a fraudulent job posting?,"If you find a fraudulent job posting, please report it immediately using the 'Report' button on the job listing or contact our support team."
-How can I follow up on my job application?,"You can follow up on your job application by sending a polite email to the employer, expressing your continued interest in the position."
-Can I filter job listings by company?,"Yes, you can filter job listings by company using the search filters on the job search page."
-What kind of jobs can I find on this portal?,"You can find a wide range of jobs, including full-time, part-time, internships, freelance, and remote positions across various industries."
+How do I create an account?,Go to the Register page and fill in your name email phone number password and select your role as either Job Seeker or Employer then click Register.
+How to register on Job Dekho?,Go to the Register page and fill in your name email phone number password and select your role as either Job Seeker or Employer then click Register.
+I want to sign up,Go to the Register page and fill in your name email phone number password and select your role as either Job Seeker or Employer then click Register.
+How to create a new account?,Go to the Register page and fill in your name email phone number password and select your role as either Job Seeker or Employer then click Register.
+What details do I need to register?,You need to provide your full name email address phone number a password and select your role as either Employer or Job Seeker.
+What is needed to sign up?,You need to provide your full name email address phone number a password and select your role as either Employer or Job Seeker.
+How do I log in?,Go to the Login page select your role as Employer or Job Seeker enter your email and password and click Login.
+How to sign in?,Go to the Login page select your role as Employer or Job Seeker enter your email and password and click Login.
+Login not working,Make sure you are selecting the correct role that matches your account type then enter the correct email and password. If the issue persists contact support at support@jobdekho.com.
+I cannot log in,Make sure you are selecting the correct role that matches your account type then enter the correct email and password. If the issue persists contact support at support@jobdekho.com.
+What are the two roles on this platform?,You can register as either a Job Seeker who can search and apply for jobs or as an Employer who can post job listings and review applicants.
+Difference between Job Seeker and Employer,A Job Seeker can browse and apply for jobs while an Employer can post jobs manage listings and accept or reject applications.
+I forgot my password,Click on the Forgot Password link on the login page and follow the instructions to reset your password.
+How to reset my password?,Click on the Forgot Password link on the login page and follow the instructions to reset your password.
+Forgot password,Click on the Forgot Password link on the login page and follow the instructions to reset your password.
+How do I change my password?,Go to your profile settings click on Change Password and follow the instructions to update your password.
+Update my password,Go to your profile settings click on Change Password and follow the instructions to update your password.
+How do I logout?,Click the LOGOUT button in the sidebar navigation menu. You will be redirected to the login page.
+How to log out?,Click the LOGOUT button in the sidebar navigation menu. You will be redirected to the login page.
+Sign out of my account,Click the LOGOUT button in the sidebar navigation menu. You will be redirected to the login page.
+How do I update my profile?,Go to your profile page and click on Edit Profile to update your information.
+Edit my profile,Go to your profile page and click on Edit Profile to update your information.
+Change profile details,Go to your profile page and click on Edit Profile to update your information.
+How do I delete my account?,To delete your account please contact our support team at support@jobdekho.com.
+Remove my account,To delete your account please contact our support team at support@jobdekho.com.
+How to deactivate account?,To temporarily deactivate your account please contact our support team at support@jobdekho.com.
+How do I change my account type?,You cannot directly switch between Job Seeker and Employer. Please contact our support team at support@jobdekho.com to change your account type.
+Switch from job seeker to employer,You cannot directly switch between Job Seeker and Employer. Please contact our support team at support@jobdekho.com to change your account type.
+How can I search for jobs?,Go to the All Jobs page from the navigation sidebar. You will see all available job listings. Use the search bar at the top to filter jobs by title.
+How to find jobs?,Go to the All Jobs page from the navigation sidebar. Use the search bar to filter by job title and browse the available listings.
+Where can I see all job listings?,Click on ALL JOBS in the sidebar to see every available job listing. You can search by title and see the category country city and posting date for each job.
+How to filter jobs?,Use the search bar on the All Jobs page to filter jobs by their title in real time.
+How do I view job details?,Click on the Job Details button on any job card in the All Jobs page to see the full job information including title category location salary and description.
+What information is shown on a job listing?,Each job listing shows the title category country city posting date salary and full description. Employer accounts will not see the Apply button.
+How do I apply for a job?,Open the job listing you want and click the Apply Now button. Fill in your name email phone number address cover letter and upload your resume then click Send Application.
+How to submit a job application?,Open the job listing and click Apply Now. Fill in the application form with your details and resume then submit.
+What do I need to apply for a job?,You need to fill in your full name email phone number address and cover letter and upload your resume in PDF JPG or PNG format.
+What file formats are accepted for resume?,You can upload your resume as a PDF JPG or PNG file when applying for a job.
+Can I apply for multiple jobs?,Yes you can apply to as many jobs as you like by visiting each job listing individually and submitting a separate application for each one.
+Can I delete my job application?,You can delete your own pending application from the My Applications page. Once reviewed you cannot delete it.
+How do I withdraw my application?,You can delete your pending application from the My Applications page. If already reviewed contact the employer directly.
+Where can I see my submitted applications?,Go to MY APPLICATIONS in the sidebar. You will see all your submitted applications with their current status.
+How to track my application status?,On the My Applications page each application shows a status timeline with stages Applied Under Review Awaiting Decision Interview Scheduled and Final Decision.
+What are the stages of an application?,The application goes through these stages: Applied then Under Review then Awaiting Decision. If accepted it moves to Interview Scheduled and then Final Decision.
+What happens after I apply?,Your application goes to the employer for review. The status shows Under Review on your My Applications page. The employer can then accept or reject it.
+What does it mean if my application is accepted?,The employer has accepted your application and scheduled an interview. You will receive a notification and can see the interview date time and meeting link in My Applications.
+What does it mean if my application is rejected?,The employer has reviewed your application and decided not to move forward. You will see a Rejected status on your application card.
+How will I know if I got the interview?,You will receive a real time notification and your application status will update to show the interview date time and meeting link.
+Where do I find my interview details?,Go to MY APPLICATIONS in the sidebar. If accepted you will see the interview date time and a clickable Meet link on your application card.
+How do I join my interview?,Go to My Applications or the Interview Dashboard. Click the Join Meeting link next to your scheduled interview to open the video call.
+What is the Interview Dashboard?,The Interview Dashboard shows all accepted applications with scheduled interviews. Job seekers can see their interview schedule and final result. Employers can see all candidates and set the final verdict.
+How to access the Interview Dashboard?,Click on INTERVIEW DASHBOARD in the sidebar navigation menu. It is available to both Job Seekers and Employers.
+What is the final verdict?,After the interview the employer marks each candidate as either Selected for the job or Not Selected. You will see this result in the Interview Dashboard and My Applications.
+How do I know if I got the job?,After your interview the employer will update the final verdict. If selected you will see a Selected badge and receive a notification.
+How do I post a job?,You must be logged in as an Employer. Click POST NEW JOB in the sidebar fill in the title category country city location salary type salary amount and description then click Create Job.
+What details are required to post a job?,You need to provide the job title category country city location salary type either fixed or ranged salary amount and a full job description.
+What job categories are available?,The available categories are Graphics and Design Mobile App Development Frontend Web Development MERN Stack Development Account and Finance Artificial Intelligence Video Animation MEAN Stack Development MEVN Stack Development and Data Entry Operator.
+What salary types can I choose?,You can choose between a Fixed Salary where you enter one amount or a Ranged Salary where you enter a minimum and maximum salary value.
+Can I edit a job I posted?,Yes go to VIEW YOUR JOBS in the sidebar click Edit on the job card make your changes and click the checkmark button to save.
+How to update a job listing?,Go to VIEW YOUR JOBS click Edit on the job you want to update make your changes and click the checkmark to confirm.
+How to delete a job posting?,Go to VIEW YOUR JOBS in the sidebar and click the Delete button on the job card you want to remove.
+Can I mark a job as expired?,Yes when editing a job in VIEW YOUR JOBS you can change the Expired field to TRUE to mark it as no longer active.
+How to see the jobs I have posted?,Click on VIEW YOUR JOBS in the sidebar. You will see all your posted jobs with a summary of total active and expired listings.
+Where can I see applications for my jobs?,Click on MY APPLICATIONS in the sidebar. As an Employer you will see all applications for your jobs with applicant details and resume thumbnails.
+How do I accept an application as an employer?,On the My Applications page click Accept and Schedule Interview on the applicant card. Fill in the interview date time and meeting link then confirm.
+How do I reject an application?,Click the Reject Application button on the applicant card in My Applications. The applicant will be notified automatically.
+How do I schedule an interview?,When accepting an application a popup appears. Enter the interview date time and meeting link and click Accept and Send Interview to confirm.
+How do I set the final hiring verdict?,Go to the Interview Dashboard find the candidate and click Select to hire or Not Select to decline after the interview has taken place.
+What are notifications?,Notifications keep you updated in real time about key events like new applications being submitted jobs posted and application decisions.
+Where can I see my notifications?,Click NOTIFICATIONS in the sidebar. You will see all your notifications with a summary of total unread and read counts.
+How do I mark a notification as read?,Click the green checkmark on any notification card or click Mark All as Read at the top to clear all at once.
+What does the notification badge mean?,The badge on the NOTIFICATIONS menu item shows the number of unread notifications. It updates in real time as new events happen.
+What types of notifications are there?,There are four notification types: New Job Posted shown to job seekers Application Submitted shown to employer Application Accepted shown to job seeker and Application Rejected shown to job seeker.
+How do real time notifications work?,The app uses Socket.IO so you receive notifications instantly without needing to refresh. As long as you are logged in updates arrive automatically.
+What is on the Home page?,The Home page shows a welcome hero section a How It Works section with steps for using the platform a Popular Categories section and a Popular Companies section.
+What is the welcome greeting screen?,The first time you log in you see a three slide welcome screen introducing Job Dekho communities expert answers and job opportunities. Click Next through the slides and Get Started to close.
+How do I navigate the app?,Open the sidebar by clicking the hamburger menu icon in the top left. It contains links to Home All Jobs My Applications Post New Job View Your Jobs Interview Dashboard Notifications and Logout.
+How do I contact support?,You can email our support team at support@jobdekho.com or call 123-456-7890.
+I need help,Contact our support team at support@jobdekho.com or call 123-456-7890. They typically respond within 24 hours.
+How long does support take to respond?,Our support team typically responds within 24 hours.
+Is posting a job free?,Basic job posting is free. For premium features please check our pricing page.
+Is there any cost to use Job Dekho?,Basic features including job search and applying are free. For premium employer features please check our pricing page.
+What is Job Dekho?,Job Dekho is a job portal where Job Seekers can search and apply for jobs and Employers can post jobs review applications schedule interviews and make final hiring decisions. It includes real time notifications and a built-in interview management system.
+How does Job Dekho work?,Job seekers register browse jobs and apply. Employers post jobs review applications accept or reject candidates and schedule interviews. The entire hiring process from application to final verdict happens within the platform.
+What if I encounter an error?,Contact our support team at support@jobdekho.com with details of the error you are experiencing.
+Error while submitting application,Check your internet connection and make sure all fields are filled and the resume file is in PDF JPG or PNG format. If the issue persists contact support@jobdekho.com.
+How do I report a fake job?,Click the Report button on the suspicious job listing or contact our support team immediately at support@jobdekho.com.
+Can employers see my resume?,Yes your uploaded resume is visible to the employer on the My Applications page as a thumbnail. They can click to view the full resume.
+Tips for writing a cover letter,Keep your cover letter focused on why you are a good fit for the role. Mention relevant skills and experience and keep it professional and concise.
+Tips for a strong resume?,Keep your resume clear and organised with relevant skills and experience highlighted. Visit our blog section for detailed resume writing guides.

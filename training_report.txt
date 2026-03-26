@@ -1,0 +1,64 @@
+============================================================
+  Job Dekho Chatbot — Training Report
+  Generated : 2026-03-26 18:51:34
+============================================================
+
+Dataset        : /home/claude/fresh-delivery/ChatBot-JobDekho/JobPortalDataset.csv
+Total rows     : 90
+Unique classes : 75
+Train samples  : 81
+Test samples   : 9
+
+------------------------------------------------------------
+  Accuracy : 22.22%
+------------------------------------------------------------
+
+Classification Report:
+
+                                                                                                                                                                                           precision    recall  f1-score   support
+
+                                                              Click the Reject Application button on the applicant card in My Applications. The applicant will be notified automatically.       0.00      0.00      0.00         1
+                                                                            Click the green checkmark on any notification card or click Mark All as Read at the top to clear all at once.       0.00      0.00      0.00         1
+                                     Go to the Register page and fill in your name email phone number password and select your role as either Job Seeker or Employer then click Register.       1.00      1.00      1.00         1
+                                                                                                            Go to your profile page and click on Edit Profile to update your information.       1.00      1.00      1.00         1
+                                                                                Go to your profile settings click on Change Password and follow the instructions to update your password.       0.00      0.00      0.00         0
+                                    On the My Applications page click Accept and Schedule Interview on the applicant card. Fill in the interview date time and meeting link then confirm.       0.00      0.00      0.00         0
+                          On the My Applications page each application shows a status timeline with stages Applied Under Review Awaiting Decision Interview Scheduled and Final Decision.       0.00      0.00      0.00         0
+                        The application goes through these stages: Applied then Under Review then Awaiting Decision. If accepted it moves to Interview Scheduled and then Final Decision.       0.00      0.00      0.00         0
+                                                                                                          To delete your account please contact our support team at support@jobdekho.com.       0.00      0.00      0.00         0
+                                                                        Yes when editing a job in VIEW YOUR JOBS you can change the Expired field to TRUE to mark it as no longer active.       0.00      0.00      0.00         0
+                                                                           You can delete your own pending application from the My Applications page. Once reviewed you cannot delete it.       0.00      0.00      0.00         1
+                                                                You can delete your pending application from the My Applications page. If already reviewed contact the employer directly.       0.00      0.00      0.00         1
+                                             You can register as either a Job Seeker who can search and apply for jobs or as an Employer who can post job listings and review applicants.       0.00      0.00      0.00         1
+                                         You cannot directly switch between Job Seeker and Employer. Please contact our support team at support@jobdekho.com to change your account type.       0.00      0.00      0.00         1
+You must be logged in as an Employer. Click POST NEW JOB in the sidebar fill in the title category country city location salary type salary amount and description then click Create Job.       0.00      0.00      0.00         0
+                                            You need to provide the job title category country city location salary type either fixed or ranged salary amount and a full job description.       0.00      0.00      0.00         1
+
+                                                                                                                                                                                 accuracy                           0.22         9
+                                                                                                                                                                                macro avg       0.12      0.12      0.12         9
+                                                                                                                                                                             weighted avg       0.22      0.22      0.22         9
+
+============================================================
+  Quick Smoke Test
+============================================================
+
+Q: How do I apply for a job?
+A: Open the job listing you want and click the Apply Now button. Fill in your name email phone number address cover letter and upload your resume then click Send Application.
+
+Q: I forgot my password
+A: Click on the Forgot Password link on the login page and follow the instructions to reset your password.
+
+Q: How do I post a job?
+A: You must be logged in as an Employer. Click POST NEW JOB in the sidebar fill in the title category country city location salary type salary amount and description then click Create Job.
+
+Q: What is the Interview Dashboard?
+A: The Interview Dashboard shows all accepted applications with scheduled interviews. Job seekers can see their interview schedule and final result. Employers can see all candidates and set the final verdict.
+
+Q: How do real time notifications work?
+A: The app uses Socket.IO so you receive notifications instantly without needing to refresh. As long as you are logged in updates arrive automatically.
+
+Q: How do I accept an application?
+A: On the My Applications page click Accept and Schedule Interview on the applicant card. Fill in the interview date time and meeting link then confirm.
+
+Q: What job categories are available?
+A: The available categories are Graphics and Design Mobile App Development Frontend Web Development MERN Stack Development Account and Finance Artificial Intelligence Video Animation MEAN Stack Development MEVN Stack Development and Data Entry Operator.
